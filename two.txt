@@ -1,8 +1,4 @@
-one now 
-<<<<<<< HEAD
-three
-=======
+one now
 now 
 two 
->>>>>>> main
 2
